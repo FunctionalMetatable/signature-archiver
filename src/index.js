@@ -29,19 +29,7 @@ async function run() {
   }
 };
 
-function htmlToBBCode(signatureHtml) {
-    var selection = window.getSelection();
-    if (selection.rangeCount > 0) {
-      // if something is selected
-      let range = selection.getRangeAt(0);
-      var clonedSelection = range.cloneContents();
-      
-      html.appendChild(clonedSelection);
-    } else {
-      // nothing is selected
-      return "";
-    }
-    
+function htmlToBBCode(signatureHtml) {    
     let { window, document} = parseHTML(`<div class="postsignature">${signatureHtml}</div>`)
     
     let html = document.querySelector(".postsignature")
