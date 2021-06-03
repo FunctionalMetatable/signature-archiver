@@ -20,7 +20,10 @@ async function run() {
     
     let bbcode = htmlToBBCode(signature.innerHTML);
     
-    let old = fs.readFileSync(`./signatures/${user}.txt`, "utf-8")
+    let old;
+    try {
+      old = fs.readFileSync(`./signatures/${user}.txt`, "utf-8")
+    } catch(ex) {}
     
     if (old !== bbcode) {
       fs.writeFileSync(`./signatures/${user}.txt`, bbcode)
