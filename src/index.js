@@ -27,6 +27,7 @@ async function run() {
     
     if (old !== bbcode) {
       fs.writeFileSync(`./signatures/${user}.txt`, bbcode)
+      fs.writeFileSync(`./signatures/${user}.html`, signature.innerHTML)
       console.log(`Updated signature for ${user}`)
     }
   }
