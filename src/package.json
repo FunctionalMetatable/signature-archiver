@@ -6,7 +6,8 @@
     "test": "echo \"No test specified\""
   },
   "dependencies": {
-    "node-fetch": "latest"
+    "node-fetch": "latest",
+    "linkedom": "latest"
   },
   "devDependencies": {}
 }
