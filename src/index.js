@@ -18,7 +18,7 @@ async function run() {
     
     let signature = document.querySelector(`#p${res.lastSeen.id} .postsignature`)
     
-    let bbcode = htmlToBBCode(signature.innerHTML);
+    let bbcode = htmlToBBCode(signature ? signature.innerHTML : "");
     
     let old;
     try {
@@ -27,7 +27,7 @@ async function run() {
     
     if (old !== bbcode) {
       fs.writeFileSync(`./signatures/${user}.txt`, bbcode)
-      fs.writeFileSync(`./signatures/${user}.html`, signature.innerHTML)
+      fs.writeFileSync(`./signatures/${user}.html`, signature ? signature.innerHTML : "")
       console.log(`Updated signature for ${user}`)
     }
   }
