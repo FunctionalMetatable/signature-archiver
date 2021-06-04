@@ -8,15 +8,16 @@ async function run() {
   for (let u=0;u<users.length;u++) {
     let user = users[u];
     
-    let res = await fetch(`https://scratchdb.lefty.one/v3/forum/user/info/${user}`).then(res => res.json()).catch(err => console.log("ScratchDB Fetch Error:" + err))
+    let res = await fetch(`https://scratchdb.lefty.one/v3/forum/user/posts/${user}/0`).then(res => res.json()).catch(err => console.log("ScratchDB Fetch Error:" + err))
     
     if (res.error) throw new Error("ScratchDB cannot find " + user + `. Code: ${res.error}`)
+    let post = res[Math.floor(Math.random() * res.length)]
     
-    let postRes = await fetch(`https://scratch.mit.edu/discuss/post/${res.lastSeen.id}`).then(res => res.text());
+    let postRes = await fetch(`https://scratch.mit.edu/discuss/post/${post.id}`).then(res => res.text());
     
     let { window, document } = parseHTML(postRes);
     
-    let signature = document.querySelector(`#p${res.lastSeen.id} .postsignature`)
+    let signature = document.querySelector(`#p${post.id} .postsignature`)
     
     let bbcode = htmlToBBCode(signature ? signature.innerHTML : "");
     
