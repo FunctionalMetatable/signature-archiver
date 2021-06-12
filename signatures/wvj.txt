@@ -1,5 +1,9 @@
 
                                 
                                 
-                                [url=https://scratch.mit.edu/projects/538856526/]https://scratch.mit.edu/projects/538856526/[/url]
+                                [code]
+import webbrowser
+webbrowser.open('https://youtu.be/YddwkMJG1Jo')
+[/code]
+
                             
