@@ -12,7 +12,7 @@ async function run() {
     let res = await fetch(`https://scratchdb.lefty.one/v3/forum/user/posts/${user}/0`).then(res => res.json()).catch(err => console.log("ScratchDB Fetch Error:" + err))
     
     if (res.error) throw new Error("ScratchDB cannot find " + user + `. Code: ${res.error}`)
-    let post = res[Math.floor(Math.random() * res.length)]
+    let post = res[0]
     
     let postRes = await fetch(`https://scratch.mit.edu/discuss/post/${post.id}`).then(res => res.text());
     
@@ -26,10 +26,10 @@ async function run() {
     try {
       old = [ fs.readFileSync(`./signatures/${user}.txt`, "utf-8"), fs.readFileSync(`./signatures/${user}.html`, "utf-8") ]
     } catch(ex) {}
-    let formattedHTML = prettier.format(signature.innerHTML, { semi: false, parser: 'html'})
+    let formattedHTML = prettier.format(signature ? signature.innerHTML : "", { semi: false, parser: 'html'})
     if (old !== [bbcode, formattedHTML]) {
       fs.writeFileSync(`./signatures/${user}.txt`, bbcode)
-      fs.writeFileSync(`./signatures/${user}.html`, signature ? formattedHTML : "")
+      fs.writeFileSync(`./signatures/${user}.html`, formattedHTML)
       console.log(`Updated signature for ${user}`)
     }
   }
