@@ -7,7 +7,8 @@
   },
   "dependencies": {
     "node-fetch": "latest",
-    "linkedom": "latest"
+    "linkedom": "latest",
+    "prettier": "latest"
   },
   "devDependencies": {}
 }
