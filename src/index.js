@@ -22,14 +22,14 @@ async function run() {
     
     let bbcode = htmlToBBCode(signature ? signature.innerHTML : "");
     
-    let old;
+    let old
     try {
-      old = fs.readFileSync(`./signatures/${user}.txt`, "utf-8")
+      old = [ fs.readFileSync(`./signatures/${user}.txt`, "utf-8"), fs.readFileSync(`./signatures/${user}.html`, "utf-8") ]
     } catch(ex) {}
-    
-    if (old !== bbcode) {
+    let formattedHTML = prettier.format(signature.innerHTML, { semi: false, parser: 'html'})
+    if (old !== [bbcode, formattedHTML]) {
       fs.writeFileSync(`./signatures/${user}.txt`, bbcode)
-      fs.writeFileSync(`./signatures/${user}.html`, signature ? prettier.format(signature.innerHTML, { semi: false, parser: 'html'}) : "")
+      fs.writeFileSync(`./signatures/${user}.html`, signature ? formattedHTML : "")
       console.log(`Updated signature for ${user}`)
     }
   }
