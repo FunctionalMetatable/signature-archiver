@@ -1,6 +1,7 @@
 const fetch = require("node-fetch")
 const fs = require("fs")
 const { parseHTML } = require("linkedom");
+const prettier = require("prettier")
 
 let users = JSON.parse(fs.readFileSync("./users.json", "utf-8"))
 
@@ -28,7 +29,7 @@ async function run() {
     
     if (old !== bbcode) {
       fs.writeFileSync(`./signatures/${user}.txt`, bbcode)
-      fs.writeFileSync(`./signatures/${user}.html`, signature ? signature.innerHTML : "")
+      fs.writeFileSync(`./signatures/${user}.html`, signature ? prettier.format(signature.innerHTML, { semi: false, parser: 'html'}) : "")
       console.log(`Updated signature for ${user}`)
     }
   }
