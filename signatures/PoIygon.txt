@@ -1,5 +1,8 @@
 
                                 
                                 
-                                <script>document.querySelector('*').style.fontFamily='Comic Sans MS';</script>
+                                [center]:cool: be moist
+I do [b]not[/b] have cancer
+My wish is to [b]not[/b] have X amount of followers
+I do [b]not[/b] want sympathy points[/center]
                             
