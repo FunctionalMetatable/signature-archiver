@@ -20,7 +20,7 @@ async function run() {
     
     let signature = document.querySelector(`#p${post.id} .postsignature`)
     
-    let bbcode = htmlToBBCode(signature ? signature.innerHTML : "");
+    let bbcode = htmlToBBCode(signature ? signature.innerHTML : "").trim();
     
     let old
     try {
