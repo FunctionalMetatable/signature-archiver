@@ -21,12 +21,32 @@ jobs:
         with:
           node-version: 14.x
         
+      - name: Generate App Token
+        uses: tibdex/github-app-token@v1.0.2
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.PRIVATE_KEY }}
       - name: Install Dependencies
         run: cd src && npm i
         
       - name: Check for new description changes
         run: node src/index.js
-        
+      
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3.10.0
+        with:
+          token: ${{ steps.generate_token.outputs.token }}
+          commit_message: Update signatures [gh-actions]
+          committer: autotable[bot] <autotable[bot]@users.noreply.github.com>
+          title: Update signatures
+          assignees: FunctionalMetatable
+      - name: Merge Pull Request
+        uses: juliangruber/merge-pull-request-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          number: ${{ steps.cpr.outputs.pull-request-url }}
+          method: merge
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
