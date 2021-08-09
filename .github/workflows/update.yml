@@ -20,6 +20,13 @@ jobs:
         uses: actions/setup-node@v2.1.2
         with:
           node-version: 14.x
+          
+      - name: Generate token
+        id: generate_token
+        uses: tibdex/github-app-token@v1
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.PRIVATE_KEY }}
         
       - name: Install Dependencies
         run: cd src && npm i
@@ -31,3 +38,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update signatures
+          github_token: ${{ steps.generate-token.outputs.token }}
+          commit_user_name: autotable[bot]
+          commit_user_email: autotable[bot]@users.noreply.github.com
