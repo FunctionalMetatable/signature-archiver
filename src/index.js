@@ -24,12 +24,14 @@ async function run() {
     
     let old
     try {
-      old = [ fs.readFileSync(`./signatures/${user}.txt`, "utf-8"), fs.readFileSync(`./signatures/${user}.html`, "utf-8") ]
-    } catch(ex) {}
+      old = [ fs.readFileSync(`./signatures/${user}/signature.txt`, "utf-8"), fs.readFileSync(`./signatures/${user}/signature.html`, "utf-8") ]
+    } catch(ex) {
+      fs.mkdirSync(`./signatures/${user}`)
+    }
     let formattedHTML = prettier.format(signature ? signature.innerHTML : "", { semi: false, parser: 'html'})
     if (old !== [bbcode, formattedHTML]) {
-      fs.writeFileSync(`./signatures/${user}.txt`, bbcode)
-      fs.writeFileSync(`./signatures/${user}.html`, formattedHTML)
+      fs.writeFileSync(`./signatures/${user}/signature.txt`, bbcode)
+      fs.writeFileSync(`./signatures/${user}/signature.html`, formattedHTML)
       console.log(`Updated signature for ${user}`)
     }
   }
