@@ -31,16 +31,20 @@ async function run() {
     
     try {
       fs.readFileSync(`./signatures/${user}.txt`)
-    } catch(ex) {
+      console.log(`${user} ~ Migrating..`)
       // Migrate the user
       fs.unlinkSync(`./signatures/${user}.txt`)
       fs.unlinkSync(`./signatures/${user}.html`)
+      console.log(`${user} ~ Migrated [Success]`)
+    } catch(ex) {
+      console.log(`${user} ~ Already migrated`)
     }
+    
     let formattedHTML = prettier.format(signature ? signature.innerHTML : "", { semi: false, parser: 'html'})
     if (old !== [bbcode, formattedHTML]) {
       fs.writeFileSync(`./signatures/${user}/signature.txt`, bbcode)
       fs.writeFileSync(`./signatures/${user}/signature.html`, formattedHTML)
-      console.log(`Updated signature for ${user}`)
+      console.log(`${user} ~ Updated signature`)
     }
   }
 };
