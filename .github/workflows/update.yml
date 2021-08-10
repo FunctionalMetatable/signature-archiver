@@ -40,5 +40,13 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update signatures
-          commit_user_name: autotable[bot]
-          commit_user_email: autotable[bot]@users.noreply.github.com
+          
+          
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ steps.generate_token.outputs.token }}
+          publish_dir: .
+          user_name: autotable[bot]
+          user_email: autotable[bot]@users.noreply.github.com
+          full_commit_message: Update signatures
