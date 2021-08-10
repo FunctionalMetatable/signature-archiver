@@ -1,0 +1,9 @@
+- Sheep_maker [color=white]This is a kumquat-free signature. :P[/color]
+[small][color=#aaa]This, my signature, appears below all my posts. Discuss it on my profile, not the forums. [url=https://en.scratch-wiki.info/wiki/Signature#Creating.2FChanging_a_Signature]Here's how to make your own.[/url][/color][/small]
+Post count: more than [color=red]6[/color]
+[small].postsignature { overflow: auto; } .scratchblocks { overflow-x: auto; overflow-y: hidden; }[/small]
+
+This will return false in your favourite programming language (…except Scratch):
+[code]
+(1.0 / 5e-324 - 1.0 / 5e-324) == (1.0 / 5e-324 - 1.0 / 5e-324)
+[/code]
