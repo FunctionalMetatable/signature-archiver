@@ -44,3 +44,4 @@ jobs:
           user_name: autotable[bot]
           user_email: autotable[bot]@users.noreply.github.com
           full_commit_message: Update signatures
+          publish_branch: master
