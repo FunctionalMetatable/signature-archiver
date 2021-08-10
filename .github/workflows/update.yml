@@ -34,12 +34,6 @@ jobs:
         
       - name: Check for new description changes
         run: node src/index.js
-        
-        
-      - name: Commit changed files
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update signatures
           
           
       - name: Deploy
