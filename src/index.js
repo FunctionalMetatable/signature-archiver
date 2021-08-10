@@ -28,6 +28,14 @@ async function run() {
     } catch(ex) {
       fs.mkdirSync(`./signatures/${user}`)
     }
+    
+    try {
+      fs.readFileSync(`./signatures/${user}.txt`)
+    } catch(ex) {
+      // Migrate the user
+      fs.unlinkSync(`./signatures/${user}.txt`)
+      fs.unlinkSync(`./signatures/${user}.html`)
+    }
     let formattedHTML = prettier.format(signature ? signature.innerHTML : "", { semi: false, parser: 'html'})
     if (old !== [bbcode, formattedHTML]) {
       fs.writeFileSync(`./signatures/${user}/signature.txt`, bbcode)
