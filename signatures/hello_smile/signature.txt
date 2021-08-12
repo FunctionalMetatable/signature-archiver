@@ -1,7 +1,8 @@
 [big][url=https://scratch.mit.edu/users/hello_smile][img]https://cdn2.scratch.mit.edu/get_image/user/35761593_60x60.png[/img] [b]hello_smile[/b][/url]
 [/big]
-~scratchblocks~
-[b][small][url=https://scratch.mt.edu/users/hello-smile]hello-smile[/url][/small][/b][small]          [b][url=https://scratch.mit.edu/discuss/topic/324226/]Signature logo shop[/url][/b][/small]
+[scratchblocks]
+set [alternate account] to [hello-smile]
+[/scratchblocks][b][small][url=https://scratch.mt.edu/users/hello-smile]hello-smile[/url][/small][/b][small]          [b][url=https://scratch.mit.edu/discuss/topic/324226/]Signature logo shop[/url][/b][/small]
 [big][b][u][url=https://copy.sh/v86]v86[/url][/u][/b][/big]
 [b][i][u][big][color=blue]The key to 1000 messages is following hundreds of forum topics.[/color][/big][/u][/i][/b]
 I am tired of everyone hating on me!
