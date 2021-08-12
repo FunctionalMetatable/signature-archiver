@@ -153,11 +153,10 @@ function htmlToBBCode(signatureHtml) {
     let ols = html.querySelectorAll("ol");
     for (let ol of ols) ol.textContent = `[list=1]\n${ol.textContent}[/list]\n`;
 
-    // scratchblocks - just get rid of them for now
-    // todo: support scratchblocks
+    // scratchblocks
     let scratchBlocksPres = html.getElementsByClassName("blocks");
     for (let pre of scratchBlocksPres) {
-      pre.textContent = "~scratchblocks~\n";
+      pre.textContent = `[scratchblocks]\n${pre.textContent}\n[/scratchblocks]`;
     }
 
     // code blocks
