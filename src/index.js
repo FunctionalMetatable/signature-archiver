@@ -5,20 +5,27 @@ const prettier = require("prettier")
 
 let users = JSON.parse(fs.readFileSync("./users.json", "utf-8"))
 
+let forceUsePost = {
+  "Raihan142857": 5154718
+}
 async function run() {
   for (let u=0;u<users.length;u++) {
     let user = users[u];
+    let id = 0;
+    if (forceUsePost[user]) {
+      id = forceUsePost[user]
+    } else {
+      let res = await fetch(`https://scratchdb.lefty.one/v3/forum/user/posts/${user}/0`).then(res => res.json()).catch(err => console.log("ScratchDB Fetch Error:" + err))
+      if (res.error) continue
+      let post = typeof res == 'array' ? res[0] : { id: 0 }
+      id = post.id
+    }
     
-    let res = await fetch(`https://scratchdb.lefty.one/v3/forum/user/posts/${user}/0`).then(res => res.json()).catch(err => console.log("ScratchDB Fetch Error:" + err))
-    
-    if (res.error) throw new Error("ScratchDB cannot find " + user + `. Code: ${res.error}`)
-    let post = res[0]
-    
-    let postRes = await fetch(`https://scratch.mit.edu/discuss/post/${post.id}`).then(res => res.text());
+    let postRes = await fetch(`https://scratch.mit.edu/discuss/post/${id}`, { headers: { "User-Agent": "Mozilla 5.0" } }).then(res => res.text());
     
     let { window, document } = parseHTML(postRes);
     
-    let signature = document.querySelector(`#p${post.id}`)
+    let signature = document.querySelector(`#p${id}`)
     
     if (!signature) continue
     if (signature) signature = signature.querySelector(".postsignature")
@@ -53,7 +60,7 @@ async function run() {
 };
 
 function htmlToBBCode(signatureHtml) {    
-    let { window, document} = parseHTML(`<div class="postsignature">${signatureHtml}</div>`)
+    let { window, document } = parseHTML(`<div class="postsignature">${signatureHtml}</div>`)
     
     let html = document.querySelector(".postsignature")
 
