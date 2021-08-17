@@ -6,7 +6,15 @@ const prettier = require("prettier")
 let users = JSON.parse(fs.readFileSync("./users.json", "utf-8"))
 
 let forceUsePost = {
-  "Raihan142857": 5154718
+  "Raihan142857": 5154718,
+  "9gr": 5530031,
+  "ninjaMAR": 4080205,
+  "nampinanathali": 3049838,
+  "Ankit_Anmol": 5207259,
+  "Sheep_maker": 3460004,
+  "hello_smile": 323780,
+  "CST1229": 5181933,
+  "dhuls": 5530038
 }
 async function run() {
   for (let u=0;u<users.length;u++) {
