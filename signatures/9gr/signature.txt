@@ -1,5 +1,6 @@
 [center][color=#282828]only dark mode users will be able to see this (below image)[/color]
-[img]https://assets.scratch.mit.edu/get_image/.%2E/ecd182776ffd5d795282ee5e182fa2d3.gif[/img][/center]
+[color=#fff]comments on user profiles belike:[/color]
+[img]https://assets.scratch.mit.edu/get_image/.%2E/ecd182776ffd5d795282ee5e182fa2d3.gif[/img][color=#fff]we need the database update[/color][/center]
 
 
 
