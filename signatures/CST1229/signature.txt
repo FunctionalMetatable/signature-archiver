@@ -9,6 +9,6 @@ A collection of random images.
 [url=http://scratch.mit.edu/discuss/topic/446450][img]http://assets.scratch.mit.edu/get_image/.%2E/1fce812d46dde57ff828467b857df7b5.png[/img][/url][url=http://ocular.jeffalo.net?utm_campaign=CST%2527s%2520ad%2520space][img]http://assets.scratch.mit.edu/get_image/.%2E/b6ff7d4424704367e8a932d31e9d44a1.png[/img][/url] [url=http://scratch.mit.edu/discuss/topic/494379][img]http://assets.scratch.mit.edu/get_image/.%2E/735d99b29b3581e971f80244ab18ac72.png[/img][/url][url=http://www.whenflagclicked.org][img]https://assets.scratch.mit.edu/get_image/.%2E/8ad7c8fb41dd7334dfc9de1371bc3804.png[/img][/url] [url=http://scratch.mit.edu/discuss/topic/508318][img]http://assets.scratch.mit.edu/get_image/.%2E/8a07601b14c3488ba9acf91a4effcd45.png[/img][/url][url=http://mikedev101.github.io/meower][img]https://assets.scratch.mit.edu/get_image/.%2E/8ad7c8fb41dd7334dfc9de1371bc3804.png[/img][/url] [url=http://scratch.mit.edu/discuss/topic/513823][img]http://assets.scratch.mit.edu/get_image/.%2E/fa71828f426daa9bd2f34ea9f194904e.png[/img][/url][url=http://magnifier.potatophant.net][img]http://assets.scratch.mit.edu/get_image/.%2E/b6ff7d4424704367e8a932d31e9d44a1.png[/img][/url]
 [small](these banners are edited from their banners by me. credits to their respective owners)[/small][/center]
 
-[quote]
+[code]
 
-                            [/quote]
+                            [/code]
