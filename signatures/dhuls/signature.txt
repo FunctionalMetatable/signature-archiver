@@ -1,8 +1,8 @@
-Placeholder
-Placeholder
-Highlight this and use SHIFT-DOWN to view my whole signature.
+$1
+$2
+Highlight + SHIFT-DOWN to view my whole signature.
 [small]Contrary to popular belief, the ST does actually listen. 
-Computer: Microsoft Surface Book 2. OS: Windows 10 x64 21H1. Browser: Microsoft Edge 91 or Mozilla Firefox 89 on Fridays
+Computer: MS Surface Book 2. OS: Win10 x64 21H1. Browser: MS Edge or Firefox
 I can usually be found in Suggestions and QaS, but I can sometimes be found in HWS, B&G, and the ATs. I'm also a [url=https://en.scratch-wiki.info/wiki/User:Dhuls]Scratch Wiki editor.[/url] He/Him
 [url=https://scratch.mit.edu/projects/526281495]Play my Game.[/url] [url=https://scratch.mit.edu/projects/544317537/]Bitmap or Vector?[/url]
 [url=https://scratch.mit.edu/discuss/topic/504997/]Offline Editor Sync.[/url] [url=https://scratch.mit.edu/discuss/topic/516370/?page=1#post-5273771]Lego Mindstorms and Spike Prime extension(s).[/url]
@@ -11,6 +11,7 @@ Want to be more popular than Griffpatch? [url=http://%2559%254F%2555%2554%2555%2
 Applications are [b][color=green]open[/color][/b].
 [url=https://scratch.mit.edu/studios/30136012/][img]https://en.scratch-wiki.info/w/images/TFHBanner.png[/img][/url]
 [url=https://ocular.jeffalo.net/?utm_source=Scratch&utm_campaign=Dhuls%2527s%2520Campaign][img]https://en.scratch-wiki.info/w/images/OcularBanner.png[/img][/url]
+[url=https://magnifier.potatophant.net/?utm_source=Scratch%2520Wiki&utm_campaign=Dhuls%2527s%2520Campaign][img]https://en.scratch-wiki.info/w/images/MagnifierBanner.png[/img][/url]
 [scratchblocks]
 (^.^ :: sensing) // this is Blocky, he eats kumquats before they eat my siggy
 <-.- :: control> // This is my other kumquat guard. He was once a kumquat, but got kicked out for having sharp edges
