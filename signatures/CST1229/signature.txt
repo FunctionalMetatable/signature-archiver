@@ -1,4 +1,5 @@
 [center][small]This is a signature. It's text that appears below each post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature%2523Creating%252FChanging_a_Signature]Click here to make your own.[/url] And use Shift+Down to see more if you're on Chrome.[/small]
+[img]https://assets.scratch.mit.edu/get_image/.%2E/b829c1c6b1574026b4e1efc42b588d8b.gif[/img]
 [url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][i][u]| | |[/u] sideways E
 [/i][/color][small]Instead of posting Support/No Support on a topic by itself, just use [url=https://ocular.jeffalo.net]ocular[/url] reactions instead. Doesn't waste a post and seeing vote totals is easy.[/small][/center][quote]
 [big][b]Stuff I made[/b][/big][list]
@@ -20,10 +21,4 @@
 ⬛️⬜️⚪️⚫️▪️▫️◻️◼️◽️
 
 Copy-paste as you wish!  No credit needed.
-[/quote]
-[quote]
-[big][b]Some assets for use in posts[/b][/big]
-Globe button [img]https://cdn.scratch.mit.edu/scratchr2/static/__73c73bf495827f55759847fac6191e53__//djangobb_forum/img/browser-os.png[/img]
-[code]
-[img]https://cdn.scratch.mit.edu/scratchr2/static/__73c73bf495827f55759847fac6191e53__//djangobb_forum/img/browser-os.png[/img][/code]
 [/quote]
