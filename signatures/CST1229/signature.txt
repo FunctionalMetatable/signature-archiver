@@ -1,8 +1,6 @@
 [center][small]This is a signature. It's text that appears below each post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature%2523Creating%252FChanging_a_Signature]Click here to make your own.[/url] And use Shift+Down to see more if you're on Chrome.[/small]
-[url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray]ABSOLUTE. CHAOS.
-[/color][small]Make sure to use the Report button on ANY content that abuses the filterbot being nonexistent!
-
-Instead of posting Support/No Support on a topic by itself, just use [url=http://ocular.jeffalo.net]ocular[/url] reactions instead. Doesn't waste a post and seeing vote totals is easy.[/small][/center][quote]
+[url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray]Filterbot back but servers don't feel like it
+[/color][small]Instead of posting Support/No Support on a topic by itself, just use [url=http://ocular.jeffalo.net]ocular[/url] reactions instead. Doesn't waste a post and seeing vote totals is easy.[/small][/center][quote]
 [big][b]Stuff I made[/b][/big][list]
 [*][b][url=https://scratch.mit.edu/discuss/topic/554191][color=#8533fa]Project Explorer[/color][/url][/b][*][url=https://scratch.mit.edu/projects/563220049][img]https://assets.scratch.mit.edu/get_image/.%2E/0f5b0107807087068ee87674ca674ce7.webp[/img][img]https://assets.scratch.mit.edu/get_image/.%2E/4cffbc562f46ebdd2ab50f54244210ce.gif[/img][img]https://assets.scratch.mit.edu/get_image/.%2E/aeeed7fbf89ae8123e3c937533fcd616.webp[/img][/url] [small]note: not a file converter[/small]
 [/list]
