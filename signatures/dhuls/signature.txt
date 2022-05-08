@@ -1,2 +1,1 @@
-[small](If the image is too small, highlight this text then use shift+down)[/small]
 [img]https://assets.scratch.mit.edu/get_image/.%2E/7a303c5962e7848b19fddbf4a4eec24f.jpg[/img]
