@@ -1,2 +1,29 @@
 left scratch now minecraft modder.
 check me out: [url=https://github.com/weredime]https://github.com/weredime[/url]
+
+
+
+
+
+
+
+
+
+
+
+testing please ignore
+const emojis = {
+    “:)”: “”,
+    “:)”: “”,
+    “:(”: “”,
+    “:(”: “”,
+    “:o”: “”,
+    “:/”: “”,
+    “:lol:”: “”,
+    “:rolleyes”: “”,
+    “:|”: “”,
+    “:|”: “”,
+    “:P”: “”,
+    “:mad:”: “”,
+    “:cool:”: “”
+};
