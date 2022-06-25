@@ -1,3 +1,4 @@
+functionalmetatable.github.io is heavily deprecated and should not be used
 scratory: [url=https://scratory.weredime.rocks/]https://scratory.weredime.rocks/[/url]
 me finally got domain
 
