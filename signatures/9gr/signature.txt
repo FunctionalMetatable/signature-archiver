@@ -1,1 +1,4 @@
-technoblade. never. dies.
+[scratchblocks]
+when gf clicked
+say [Hello, world!]
+[/scratchblocks]
