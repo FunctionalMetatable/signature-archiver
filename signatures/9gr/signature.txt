@@ -1,4 +1,1 @@
-[scratchblocks]
-when gf clicked
-say [Hello, world!]
-[/scratchblocks]
+@9gr
