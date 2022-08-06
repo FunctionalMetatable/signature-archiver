@@ -1,2 +1,6 @@
 [url=https://github.com/Weredime]@Weredime on GitHub[/url] for more epic 9gr content
 not really active here anymore
+
+[scratchblocks]
+say [Hello world!]
+[/scratchblocks]
