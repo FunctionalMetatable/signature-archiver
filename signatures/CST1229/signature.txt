@@ -1,5 +1,7 @@
 [center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small]
-[url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][i]ő/őt /j[/i][/color][/center]
+[url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][small][i]Did you know that: [url=https://scratchblocks.github.io/v2/#if%2520%253Cmouse%2520down%253F%253E%250Asay%2520%253Cnot%2520%253C%253E%253E%250A%250A%252F%252F%2520also%252C%2520old%2520scratchblocks%2520is%2520very%2520buggy]older versions of scratchblocks did not have boolean blocks[/url] due to renderer limitations ([url=https://github.com/scratchblocks/scratchblocks/releases/tag/v3.1]fixed in v3[/url] with a renderer rework)?
+Did you know that: Scratch used to have custom reporters early in development?
+Did you know that: [url=https://github.com/scratchblocks/scratchblocks/releases/tag/v3.1]until v3.1[/url], custom C blocks in scratchblocks used to be made with ::cstart, .:celse and ::cend modifiers?[/i][/small][/color][/center]
 
 [scratchblocks]
 ((::#639bff) (((C::#639bff)::#548aee)::#4379dd) (::#639bff) ::#fff)
