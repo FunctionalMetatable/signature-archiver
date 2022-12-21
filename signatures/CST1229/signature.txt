@@ -1,5 +1,6 @@
 [center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][small][i]Did you know that: The ST apparently planned on having horizontal blocks as an option for 3.0 [url=https://github.com/LLK/scratch-blocks/issues/426#issuecomment-273306775]with one-way conversion from horizontal to vertical[/url]?
-Did you know that: The ST has [url=https://github.com/LLK/scratch-gui/issues/59#issuecomment-456416739]done some design work[/url] for a 3.0 editor dark mode?[/i][/small][/color][/center]
+Did you know that: The ST has [url=https://github.com/LLK/scratch-gui/issues/59#issuecomment-456416739]done some design work[/url] for a 3.0 editor dark mode?
+Did you know that: Navigating to the Sounds tab using the keyboard (without clicking) crashes the editor?[/i][/small][/color][/center]
 
 
 [big][b]Storage[/b][/big]
