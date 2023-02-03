@@ -1,5 +1,13 @@
-[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][i]Did you know that: Today (or possibly not) is what I call CST1229 day (December 29th, 12/29)?[/i][/color][/center]
+[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][i]AmonScratch (real)[/i][/color][/center]
 
+
+Here's a little tip for ya:
+[quote=CST1229]
+CST1229 wrote:[small]([url=https://scratch.mit.edu/discuss/post/6949484/]#9[/url])[/small]
+In that case [to find duplicate suggestions if ocular is blocked], you can use Google, using a search term like this:
+[code]
+[search term here] "» Suggestions »" site:scratch.mit.edu/discuss/topic/[/code]
+(“» Suggestions »” matches the “breadcrumb navigation” at the top and bottom of the page, to ensure the topic is in Suggestions)[/quote]
 
 
 [big][b]Storage[/b][/big]
