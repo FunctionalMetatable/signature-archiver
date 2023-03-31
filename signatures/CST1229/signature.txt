@@ -1,5 +1,4 @@
-[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][i][b]what the devs doin':[/b] [url=https://scratch.mit.edu/discuss/61/]Suggest-Show-Question-Bugs-Help-Glitch-Tell-Etc[/url] ([u]updated[/u]: 2022-03-29)
-[b]Did you know that:[/b] [url=https://cst1229.github.io/project-explorer?afd]Project Explore[/url]?[/i][/color] [color=#ddd][i](AFD)[/i][/color]
+[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][img]https://assets.scratch.mit.edu/get_image/.%2E/8592d55f46f6405393fac5a8704e5d60.png[/img][color=gray][b]Did you know that:[/b] [url=https://cst1229.github.io/project-explorer?afd]Project Explore[/url]?[/color] [color=#ddd][i](AFD)[/i][/color]
 
 [img]https://assets.scratch.mit.edu/get_image/.%2E/8cb4f475c4c3fa934358e1205d193149.svg[/img][/center]
 
@@ -10,3 +9,7 @@ In that case [to find duplicate suggestions if ocular is blocked], you can use G
 [code]
 [search term here] "» Suggestions »" site:scratch.mit.edu/discuss/topic/[/code]
 (“» Suggestions »” matches the “breadcrumb navigation” at the top and bottom of the page, to ensure the topic is in Suggestions)[/quote]
+
+[i][b]what the devs doin':[/b] [url=https://scratch.mit.edu/discuss/61/]Suggest-Show-Question-Bugs-Help-Glitch-Tell-Etc[/url] ([u]updated[/u]: 2022-03-29)
+[url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url]
+[/i]
