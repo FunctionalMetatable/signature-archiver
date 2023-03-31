@@ -1,15 +1,16 @@
-[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][img]https://assets.scratch.mit.edu/get_image/.%2E/8592d55f46f6405393fac5a8704e5d60.png[/img][color=gray][b]Did you know that:[/b] [url=https://cst1229.github.io/project-explorer?afd]Project Explore[/url]?[/color] [color=#ddd][i](AFD)[/i][/color]
+[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][img]https://assets.scratch.mit.edu/get_image/.%2E/beed92596e93908fc5122d52ade9860e.svg[/img][color=gray][b]Did you know that:[/b] [url=https://cst1229.github.io/project-explorer?afd]Project Explore[/url]? [color=#ddd][i](AFD)[/i][/color]
+[color=gray][i]I can't think of any jokes, so I'm probably not gonna post any AF topics.[/i][/color]
 
-[img]https://assets.scratch.mit.edu/get_image/.%2E/8cb4f475c4c3fa934358e1205d193149.svg[/img][/center]
+[img]https://assets.scratch.mit.edu/get_image/.%2E/8cb4f475c4c3fa934358e1205d193149.svg[/img][/color][/center][color=gray]
 
 Here's a little tip for ya:
-[quote=CST1229]
-CST1229 wrote:[small]([url=https://scratch.mit.edu/discuss/post/6949484/]#9[/url])[/small]
+[/color][quote=CST1229]
+CST1229 wrote:[color=gray][small]([url=https://scratch.mit.edu/discuss/post/6949484/]#9[/url])[/small]
 In that case [to find duplicate suggestions if ocular is blocked], you can use Google, using a search term like this:
-[code]
+[/color][code]
 [search term here] "» Suggestions »" site:scratch.mit.edu/discuss/topic/[/code]
-(“» Suggestions »” matches the “breadcrumb navigation” at the top and bottom of the page, to ensure the topic is in Suggestions)[/quote]
-
+[color=gray](“» Suggestions »” matches the “breadcrumb navigation” at the top and bottom of the page, to ensure the topic is in Suggestions)[/color][/quote]
+[color=gray]
 [i][b]what the devs doin':[/b] [url=https://scratch.mit.edu/discuss/61/]Suggest-Show-Question-Bugs-Help-Glitch-Tell-Etc[/url] ([u]updated[/u]: 2022-03-29)
 [url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url]
-[/i]
+[/i][/color]
