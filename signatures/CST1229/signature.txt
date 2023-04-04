@@ -1,15 +1,11 @@
-[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][/color]
-[color=gray][i][/i][/color]
+[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][/color][color=gray][i][b]what the devs doin':[/b] [url=https://github.com/LLK/scratch-gui/pull/8843]themed icons got merged[/url] ([u]updated[/u]: 2022-04-04)[/i][/color][i]
 
-[img]https://assets.scratch.mit.edu/get_image/.%2E/8cb4f475c4c3fa934358e1205d193149.svg[/img][/center]
+[img]https://assets.scratch.mit.edu/get_image/.%2E/8cb4f475c4c3fa934358e1205d193149.svg[/img][/i][/center][i]
 
 Here's a little tip for ya:
-[quote=CST1229]
-CST1229 wrote:[small]([url=https://scratch.mit.edu/discuss/post/6949484/]#9[/url])[/small]
+[/i][quote=CST1229]
+CST1229 wrote:[i][small]([url=https://scratch.mit.edu/discuss/post/6949484/]#9[/url])[/small]
 In that case [to find duplicate suggestions if ocular is blocked], you can use Google, using a search term like this:
-[code]
+[/i][code]
 [search term here] "» Suggestions »" site:scratch.mit.edu/discuss/topic/[/code]
-(“» Suggestions »” matches the “breadcrumb navigation” at the top and bottom of the page, to ensure the topic is in Suggestions)[/quote]
-
-[i][b]what the devs doin':[/b] [url=https://scratch.mit.edu/discuss/61/]Suggest-Show-Question-Bugs-Help-Glitch-Tell-Etc[/url] ([u]updated[/u]: 2022-03-29)
-[/i]
+[i](“» Suggestions »” matches the “breadcrumb navigation” at the top and bottom of the page, to ensure the topic is in Suggestions)[/i][/quote]
