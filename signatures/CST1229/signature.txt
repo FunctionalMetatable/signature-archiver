@@ -1,6 +1,7 @@
-[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][small][i][b]what the devs doin':[/b]
-contrast mode [url=https://github.com/scratchfoundation/scratch-gui/releases/tag/v2.0.0-beta.1]SCRATCH 3.0 2.0[/url], [url=https://github.com/LLK/scratch-www/pull/7588]purple site menu bar[/url], releasing June 7th + [url=https://github.com/scratchfoundation/scratch-gui/pull/8929]work on typescript[/url] ([u]updated[/u]: 2022-05-09)[/i][/small][i]
+[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][i][b]what the devs doin':[/b]
+contrast mode [url=https://github.com/scratchfoundation/scratch-gui/pull/8956]settings menu![/url] (images below), releasing June 7th ([u]updated[/u]: 2022-05-17)
 [/i][/color]
+[img]https://assets.scratch.mit.edu/get_image/.%2E/8a5a2807a7964243b475a114f2fad475.png[/img] [img]https://assets.scratch.mit.edu/get_image/.%2E/0c45249a4bd4a084d50cfb4c19a0acab.png[/img]
 
 [img]https://assets.scratch.mit.edu/get_image/.%2E/8cb4f475c4c3fa934358e1205d193149.svg[/img][/center]
 
