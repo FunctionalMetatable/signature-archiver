@@ -1,15 +1,3 @@
-[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small][url=https://scratch.mit.edu/users/CST1229][img]https://assets.scratch.mit.edu/get_image/.%2E/4fafce59034a2d990d8bc00135153ca2.png[/img][/url][color=gray][i]i haven't updated this in ages[/i][/color]
-
-[img]https://assets.scratch.mit.edu/get_image/.%2E/8cb4f475c4c3fa934358e1205d193149.svg[/img][/center][url=https://scratch.mit.edu/discuss/topic/694642][img]https://assets.scratch.mit.edu/get_image/.%2E/6d186c51728db11e8e0a3592282d66c8.png[/img][/url]
-
-
-Here's a little tip for ya:
-[quote=CST1229]
-CST1229 wrote:[small]([url=https://scratch.mit.edu/discuss/post/6949484/]original post[/url])[/small]
-In that case [to find duplicate suggestions if ocular is blocked or downh], you can use Google, using a search term like this:
-[code]
-[search term here] "» Suggestions »" site:scratch.mit.edu/discuss/topic/[/code]
-(“» Suggestions »” matches the “breadcrumb navigation” at the top and bottom of the page, to ensure the topic is in Suggestions)[/quote]
-
-[color=gray][i]
-[b]Did you know that:[/b] TEMPLATE?[/i][/color]
+[center][small]This is a signature. It's a piece of text that appears below every post I write. [url=https://en.scratch-wiki.info/wiki/Special:Search?search=Signature]Click here to learn more, including how to make your own.[/url][/small]
+[url=https://scratch.mit.edu/discuss/post/7667214/][b][big]RIP assets image hosting.  2013?-2023[/big][/b][/url]
+[img]https://u.cubeupload.com/CST1229/4fafce59034a2d990d8b.png[/img][/center]
